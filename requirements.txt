@@ -1,0 +1,13 @@
+torch
+torchvision
+pandas
+pillow
+tqdm
+pytorch-lightning
+torchmetrics
+transformers==4.46.3
+sentencepiece
+tiktoken
+wandb
+notebook
+matplotlib

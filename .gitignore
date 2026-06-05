@@ -1,0 +1,27 @@
+# Environments
+crnn_env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch Lightning & Weights & Biases
+checkpoints/
+*.ckpt
+wandb/
+
+# Datasets
+data/raw/
+data/processed/
+
+
+# OS generated files
+.DS_Store
+Thumbs.db
