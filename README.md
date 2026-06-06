@@ -1,7 +1,7 @@
 # Distorted Visual Sequence Pattern Recognition using Vision Transformers
 
 **Project Owner:** Ishant Bharti  
-**Institution:** Indian Institute of Technology (IIT) Roorkee  
+**Enrolment No:** 24115076
 
 This repository implements a state-of-the-art Transformer-based Optical Character Recognition (TrOCR) pipeline to decode alphanumeric text sequences from heavily warped, blurred, and occluded grayscale images. By leveraging a Vision-Language paradigm, the system bypasses the limitations of localized convolutional networks, significantly outperforming legacy CRNN sequence alignment baselines.
 
